@@ -1,3 +1,5 @@
 [user]
 	email = AamirSohailKmAs@gmail.com
 	name = Aamir Sohail KmAs
+[init]
+        defaultBranch = main
