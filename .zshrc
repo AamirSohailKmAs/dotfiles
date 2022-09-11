@@ -2,6 +2,7 @@ export PATH=$PATH:~/.composer/vendor/bin
 
 # General Aliases
 alias zshconfig="code ~/.zshrc"
+alias dump="composer dump-autoload"
 
 # Git Aliases
 # alias add="git add"
