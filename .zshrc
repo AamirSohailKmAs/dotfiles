@@ -20,11 +20,9 @@ alias reseth="git reset --hard HEAD~1"
 
 # Laravel Aliases
 alias arti="php artisan"
-# alias mf='arti migrate:fresh'
-# alias mfs='arti migrate:fresh --seed'
-# alias tinker="arti tinker"
-# alias dusk="arti dusk"
-# alias logs="tail -50 storage/logs/laravel.log"
+alias cpenv="cp .env.example .env"
+alias tinker="php artisan tinker"
+alias logs="tail -50 storage/logs/laravel.log"
 
 # PHP Aliases
 alias pest="vendor/bin/pest"
